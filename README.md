@@ -1,2 +1,2 @@
-# jvmAction
-jvm learning action
+# javaAction
+java learning action
